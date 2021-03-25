@@ -12,7 +12,7 @@ gem 'fast_jsonapi', '~> 1.1'
 gem 'colorize', '~> 0.8'
 
 gem "dalli", "~> 2.7.0"
-gem 'kaminari', '~> 1.0', '>= 1.0.1'
+gem 'kaminari', '~> 1.2'
 gem 'nokogiri', '~> 1.8.1'
 gem "github-markdown", "~> 0.6.3"
 gem 'iso8601', '~> 0.9.0'
